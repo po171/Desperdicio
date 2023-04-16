@@ -2,6 +2,7 @@
     position: relative;
     height: 1000px;
     overflow: auto;
+    align-content: start;
 }
 
 @media (max-width: 767px) {
@@ -34,4 +35,8 @@
     position: absolute;
     right: 0;
     bottom: 0;
+}
+
+body {
+    overflow-x: hidden;
 }
