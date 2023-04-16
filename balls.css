@@ -5,7 +5,7 @@
     align-content: start;
 }
 
-@media (max-width: 767px) {
+@media (max-width: 700px) {
     .hidden-mobile {
         display: none;
     }
