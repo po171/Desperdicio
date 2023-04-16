@@ -17,7 +17,7 @@
 
 }
 
-@media (min-width: 767px) {
+@media (min-width: 1000px) {
     .padding-computer {
         padding-left: 100px;
     }
