@@ -9,6 +9,18 @@
     .hidden-mobile {
         display: none;
     }
+    body {
+        align-content: start;
+        overflow-x: hidden;
+        overflow-y: scroll;
+    }
+
+}
+
+@media (min-width: 767px) {
+    .padding-computer {
+        padding-left: 100px;
+    }
 }
 
 .rats {
