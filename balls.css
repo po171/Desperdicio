@@ -14,6 +14,10 @@
         overflow-x: hidden;
         overflow-y: scroll;
     }
+    .padding-mobile {
+        padding-left: 20px;
+        padding-right: 20px;
+    }
 
 }
 
