@@ -32,28 +32,10 @@
 
 .rats {
     min-height: 100px;
-    background-image: url(img/bgimage.jpg);
+    background-image: url(img/KYS.jpg);
     height: 700px;
     position: relative;
     min-width: 200px;
-}
-
-.rats:before {
-    content: "";
-    border-bottom: 60px solid white;
-    border-right: 0 solid rgba(0,0,0,0);
-    position: absolute;
-    left: 0;
-    bottom: 0;
-}
-
-.rats:after {
-    content: "";
-    border-bottom: 65px solid white;
-    border-left: 600px solid rgba(0,0,0,0);
-    position: absolute;
-    right: 0;
-    bottom: 0;
 }
 
 body {
